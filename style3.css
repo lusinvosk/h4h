@@ -1,0 +1,54 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.background{
+	background-image: url("images/51100966_1565900253512964_2239366548892227473_n.png");
+	background-size: cover;
+	width: 100%;
+	
+}
+.activity-left-groups{
+	text-align: center;
+	margin-top: 80px;
+}
+.activity-left-groups p{
+	font-size: 40px;
+	color: white;
+}
+.right-side-activity-text{
+	font-size: 40px;
+	margin-top: 15px;
+	width: 90%;
+	color: white;
+	font-size: 50px;
+	margin-top: 70px;
+}
+.right-side-activity{
+	display: flex;
+	margin-top: 70px;
+	justify-content: space-around;
+}
+.activity{
+	display: flex;
+}
+.activity-head{
+	color: white;
+	font-size: 83px;
+	text-align: justify;
+	margin-left: 2%;
+}
+.activity-text{
+	color: white;
+	font-size: 40px;
+	width: 44%;
+	text-align: center;
+}
+
+.background::after {
+	content: "";
+	display: block;
+	height: 100%;
+	width: 100%;
+	opacity: 0.3;
+}
