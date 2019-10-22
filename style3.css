@@ -52,3 +52,10 @@
 	width: 100%;
 	opacity: 0.3;
 }
+@media all and (max-width: 1680px){
+.activity-text{
+		width:80%;
+}
+.right-side-activity-text{
+	font-size: 40px;
+}
