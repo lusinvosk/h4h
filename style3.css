@@ -6,7 +6,6 @@
 	background-image: url("images/51100966_1565900253512964_2239366548892227473_n.png");
 	background-size: cover;
 	width: 100%;
-	
 }
 .activity-left-groups{
 	text-align: center;
@@ -44,7 +43,6 @@
 	width: 44%;
 	text-align: center;
 }
-
 .background::after {
 	content: "";
 	display: block;
@@ -58,4 +56,5 @@
 }
 .right-side-activity-text{
 	font-size: 40px;
+}
 }
