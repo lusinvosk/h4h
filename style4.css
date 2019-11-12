@@ -18,11 +18,16 @@
 	width: 95%;
 	margin-top: 30px;
 
+
+}
+.family-content div{
+	flex-basis: 1;
 }
 .family-text-img{
 	margin-top: 20px;
     text-align: justify;
-    width: 90%;
+    width: 94%;
+    margin-left: 15px;
 }
 .family-header{
 	color: white;
@@ -34,13 +39,12 @@
 	width: 60%;
 }
 @media all and (max-width: 1680px){
-.family-text-img{
-	width: 90%;
-}
+
 .right-side-family-text{
 	font-size: 40px;
 }
-.family-content{
-	width: 30%;
+
+.family-content img{
+	width: 100%;
 }
 }
