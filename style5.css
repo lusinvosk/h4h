@@ -1,0 +1,94 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.background{
+	background-image: url('images/bd19cc13f68870ec74899c3ff4dabb8c.png');
+	background-size: cover;
+	height: auto;
+	width: 100%;
+	
+}
+.beekeepers-text-img{
+	display: flex;
+	justify-content: space-around;
+	width: 94%;
+	margin: auto;
+	padding-top: 70px;
+}
+.beekeepers-button{
+	margin-top: 20px;
+}
+.beekeepers-image{
+	margin-left: 32px;
+}
+.beekeepers-img{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    position: relative;
+}
+.beekeepers-video{
+	position: absolute;
+    left: 9%;
+    bottom: 18%;
+}
+.beekeepers-button-text{
+	display: flex;
+	justify-content: space-around;
+}
+.beekeepers-button-text p{
+	font-size: 70px;
+	color: white;
+	align-self: center;
+}
+.beekeepers-head{
+	font-size: 69px;
+	color: white;
+}
+.beekeepers-p{
+	font-size: 30px;
+	color: white;
+}
+.beekeepers-p-2{
+	margin-top: 20px;
+}
+.beekeepers-footer-text{
+	color: white;
+    font-size: 30px;
+    text-align: justify;
+    width: 94%;
+    margin: 30px auto;
+}
+.acquire-text{
+	display: flex;
+	justify-content: center;
+}
+.acquire-text p{
+	font-size: 70px;
+}
+.beekeepers-skills{
+	display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    margin: auto;
+    margin-top: 25px;
+}
+.acquire-skills{
+	text-align: center;
+}
+.acquire-skills p{
+	font-size: 70px;
+}
+.acquire-img{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 40px;
+	margin-bottom: 25px;
+}
+
